@@ -1,0 +1,7 @@
+***Report for sandboxapicdc.cisco.com APIC***
+Total BD count is 78",
+Total Tenant count is 42",
+Total L3 count is 42",
+Total VRF count is 78",
+Total EP count is 79",
+
